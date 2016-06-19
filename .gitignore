@@ -58,3 +58,13 @@ fastlane/screenshots
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+#屏蔽a文件夹，不上传a文件
+a/
+a.txt
+*.txt
+
+
+
+
+
